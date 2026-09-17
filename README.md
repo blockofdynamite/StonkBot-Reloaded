@@ -7,6 +7,7 @@ Market data comes from [financequotes-api.com](https://financequotes-api.com)
 (the `yahoofinance-api` Java library for Yahoo Finance), with a direct Yahoo v8 chart
 endpoint as an automatic fallback.
 
+## WARNING: This is a clanker project! I barely touched this code. I am not proud of this code. This is not my code. Use at your own risk!
 ## Commands
 | Command | What it does |
 |---|---|
